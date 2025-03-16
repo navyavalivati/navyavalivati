@@ -38,6 +38,7 @@ I am an Engineer with a relentless curiosity, always eager to learn, adapt, and 
    <img src="https://img.shields.io/badge/-.NET_MVC-68217A?logo=dotnet&logoColor=white&style=for-the-badge" />
    <img src="https://img.shields.io/badge/-.NET_MVVM-68217A?logo=dotnet&logoColor=white&style=for-the-badge" />
    <img src="https://img.shields.io/badge/-REST_APIs-02569B?logo=postman&logoColor=white&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
 </p>
 
 <p align="left">

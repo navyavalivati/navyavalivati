@@ -7,24 +7,14 @@ I am an Engineer with a relentless curiosity, always eager to learn, adapt, and 
 🚀 Passionate about: Building efficient, high-performance solutions in an ever-evolving tech landscape.
 
 <p align="left">
-   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-   <img src="https://img.shields.io/badge/-Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white&style=for-the-badge" />
-   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+   <!-- Programming Languages -->
+   <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-   <img src="https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
    <img src="https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
 </p>
-<!--
-**navyavalivati/navyavalivati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

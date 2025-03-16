@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+   <img src="https://github.com/navyavalivati/navyavalivati/blob/main/Navya%20Valivati.png" alt="Banner" width="100%">
+</p>
+
 
 <!--
 **navyavalivati/navyavalivati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -67,3 +67,9 @@ I am an Engineer with a relentless curiosity, always eager to learn, adapt, and 
    <img src="https://img.shields.io/badge/-CI/CD-2E86C1?logo=gitlab&logoColor=white&style=for-the-badge" />
    <img src="https://img.shields.io/badge/-SCRUM-2496ED?logo=scrum&logoColor=white&style=for-the-badge" />
 </p>
+
+### 📊 GitHub Stats:
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=navyavalivati&show_icons=true&theme=radical" /> 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navyavalivati&theme=radical" /> 
+</p>

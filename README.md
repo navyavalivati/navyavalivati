@@ -86,5 +86,5 @@ I am an Engineer with a relentless curiosity, always eager to learn, adapt, and 
    <strong> Thank you for visiting! 🌟 </strong>
    <br>
    Let's Connect: 
-   <a href="https://www.linkedin.com/in/navya-valivati/">LinkedIn</a>
+   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/navya-valivati/)
 </p>

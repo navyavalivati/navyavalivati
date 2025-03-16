@@ -3,7 +3,7 @@
 I am an Engineer with a relentless curiosity, always eager to learn, adapt, and explore new technologies.  As a quick learner and problem solver, I enjoy building efficient systems and leveraging the right tools to create impactful solutions. While I value the fundamentals of computer science, I also believe that mastering the right tools is essential for innovation. I’m excited to take on new challenges and contribute to cutting-edge developments in the tech world.
 
 💡 Experienced in: Software Development Engineering. <br>
-🔍 Currently exploring: Data Engineering and scalable system design. <br>  
+🔍 Currently exploring: Data Engineering and scalable system design.<br>
 🚀 Passionate about: Building efficient, high-performance solutions in an ever-evolving tech landscape. <br>
 
 <p align="left">
@@ -83,7 +83,7 @@ I am an Engineer with a relentless curiosity, always eager to learn, adapt, and 
 💻 My goal: To become an exceptional developer! <br>
 
 <p align="center">
-   Thank you for visiting! 🌟 
+   <strong> Thank you for visiting! 🌟 </strong>
    <br>
    Let's Connect: 
    <a href="https://www.linkedin.com/in/navya-valivati/">LinkedIn</a>

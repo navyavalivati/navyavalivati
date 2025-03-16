@@ -2,9 +2,9 @@
 
 I am an Engineer with a relentless curiosity, always eager to learn, adapt, and explore new technologies.  As a quick learner and problem solver, I enjoy building efficient systems and leveraging the right tools to create impactful solutions. While I value the fundamentals of computer science, I also believe that mastering the right tools is essential for innovation. I’m excited to take on new challenges and contribute to cutting-edge developments in the tech world.
 
-💡 Experienced in: Software Development Engineering.  
-🔍 Currently exploring: Data Engineering and scalable system design.  
-🚀 Passionate about: Building efficient, high-performance solutions in an ever-evolving tech landscape.  
+💡 Experienced in: Software Development Engineering. <br>
+🔍 Currently exploring: Data Engineering and scalable system design. <br>  
+🚀 Passionate about: Building efficient, high-performance solutions in an ever-evolving tech landscape. <br>
 
 <p align="left">
    <!-- Programming Languages -->
@@ -77,10 +77,10 @@ I am an Engineer with a relentless curiosity, always eager to learn, adapt, and 
 ## 📖 My Blog Posts
 - [How to Build Your First REST API with ASP.NET Core 8](https://medium.com/@valivati.navya555/how-to-build-your-first-rest-api-with-asp-net-core-8-829de8c855dc)
 
-💡 Fun Facts:
-🌍 I love traveling & seeking adventures in new places.
-🎢 Always up for a thrill, whether it’s coding challenges or real-life adventures.
-💻 My goal: To become an exceptional developer!
+💡 Fun Facts: <br>
+🌍 I love traveling & seeking adventures in new places. <br>
+🎢 Always up for a thrill, whether it’s coding challenges or real-life adventures. <br>
+💻 My goal: To become an exceptional developer! <br>
 
 <p align="center">
    Thank you for visiting! 🌟 
